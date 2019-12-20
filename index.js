@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
+//comments
 i18n = require('i18n');
 path = require('path');
 language = process.argv[3]
